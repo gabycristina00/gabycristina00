@@ -18,4 +18,10 @@
   <a href="https://www.instagram.com/gabycristinaa00/" target="blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank">
 </div>
 
+<!--
 
+<div>
+  ![snake animation](https://github.com/gabycristina00/gabycristina00/blob/output/github-contribution-grid-snake2.svg)
+</div>
+
+--!>
