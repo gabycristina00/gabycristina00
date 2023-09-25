@@ -1,4 +1,4 @@
-### Olá! Eu sou a Gaby 👋
+## Olá! Eu sou a Gaby 👋
 <br>
 
 - 🔭 Hoje trabalho com atendimento ao público / processos administrativos
@@ -19,6 +19,3 @@
 </div>
 
 
-<div>
-  ![snake animation](https://github.com/gabycristina00/gabycristina00/blob/output/github-contribution-grid-snake2.svg)
-</div>
